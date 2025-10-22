@@ -1,0 +1,40 @@
+Lae alla script 
+Anna õigused käivitamiseks.
+chmod +x ollama_webui_installer_eng.sh
+
+käivita script 
+sudo ./ollama_webui_installer.sh
+
+Kui sa näed et selle osa install on lõpenud trüki exit et install jätkaks
+
+
+Digest: sha256:b7cd2a48c609a67a56c2e7b9ffbda0368ce1841a8574135fdbe6d4c822640b03
+Status: Downloaded newer image for dustynv/stable-diffusion-webui:r36.4.0
+root@ubuntu:/# exit
+exit
+
+
+järgmine koht on ollama install kus tuleb uuesti väljuda
+Sa void proovida tervitada ja siis välju et installiga edasi minna
+
+Trükki /bye
+
+pulling manifest
+pulling dde5aa3fc5ff: 100% ▕████████████████████████████████████████▏ 2.0 GB
+pulling 966de95ca8a6: 100% ▕████████████████████████████████████████▏ 1.4 KB
+pulling fcc5a6bec9da: 100% ▕████████████████████████████████████████▏ 7.7 KB
+pulling a70ff7e570d9: 100% ▕████████████████████████████████████████▏ 6.0 KB
+pulling 56bb8bd477a5: 100% ▕████████████████████████████████████████▏   96 B
+pulling 34bb5ab01051: 100% ▕████████████████████████████████████████▏  561 B
+verifying sha256 digest
+writing manifest
+success
+>>> Hi
+Hello! How can I assist you today?
+
+
+>>> /bye
+
+
+Siit edasik installitakse Webui
+
